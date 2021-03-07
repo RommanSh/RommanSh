@@ -1,6 +1,9 @@
-### 👋 Hi, my name is **Roman Shatskikh**!
-## I'm a beginner **Front-end developer** from Moscow.
-
+# 👋 Hi, my name is **Roman Shatskikh**!
+## I'm a beginner *Front-end developer* from Moscow.
+### Languages and Technologies
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 <!--
 **RommanSh/RommanSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
