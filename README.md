@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi, my name is **Roman Shatskikh**!
+## I'm a beginner **Front-end developer** from Moscow.
 
 <!--
 **RommanSh/RommanSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
